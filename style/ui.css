@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+/* body{
+    height: 1000px;
+} */
+canvas{
+    border: solid black 1px;
+
+    /* background-color: lightgreen; */
+}
